@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing a persona Es Santiago 1`] = `
+Object {
+  "balance": 400,
+  "name": "Santiago",
+  "type": "premium",
+}
+`;
